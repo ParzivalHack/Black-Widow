@@ -22,7 +22,7 @@ A simple batch virus to crash computers by opening hundreds of cmd prompts which
 ### TESTED ON :
 
 * Windows 7 and below✅
-*Should also work on windows 8, 10 and 11, but i haven't tested it yet❌
+* Should also work on windows 8, 10 and 11, but i haven't tested it yet❌
 
 ### INSTALLATION :
 
